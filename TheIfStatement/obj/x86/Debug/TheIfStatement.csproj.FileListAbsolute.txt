@@ -1,0 +1,5 @@
+/home/alex/Projects/TheIfStatement/TheIfStatement/obj/x86/Debug/TheIfStatement.csprojAssemblyReference.cache
+/home/alex/Projects/TheIfStatement/TheIfStatement/bin/Debug/TheIfStatement.exe
+/home/alex/Projects/TheIfStatement/TheIfStatement/bin/Debug/TheIfStatement.pdb
+/home/alex/Projects/TheIfStatement/TheIfStatement/obj/x86/Debug/TheIfStatement.exe
+/home/alex/Projects/TheIfStatement/TheIfStatement/obj/x86/Debug/TheIfStatement.pdb
